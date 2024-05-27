@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About Us ℹ️](About%Us%ℹ️.md)
+* [[About Us ℹ️]]
   * [Mod List Info](network-information/Mod%20List%20Info.md)
 * How to Join?
   * [Supported Platforms](network-information/how-to-join/supported-platforms.md)
