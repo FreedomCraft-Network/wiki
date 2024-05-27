@@ -1,13 +1,4 @@
----
-description: >-
-  The Prestige System rewards players for resetting their Guild Rank, items and
-  currency (in short, all of their progression) for two benefits: big fixed
-  bonuses and showcasing stats.
----
-
-# Prestige Ranks
-
-## _➮_ Cost
+# _➮_ Cost
 
 <mark style="color:red;">**Everything!**</mark>&#x20;
 
@@ -15,11 +6,9 @@ At least, everything related to EliteMobs. The player's current guild rank will 
 
 This is quite interesting to see happen all at once when a fully equipped player activates the prestige while having all gear equipped, making it look like they're being born again.
 
-{% hint style="danger" %}
-If you'd like to showcase your previous prestige gear/sets, it is recommended you place the items in a Shulker, Item Frame or on an Armor Stand <mark style="color:yellow;">**prior**</mark> to purchasing your next prestige.
-{% endhint %}
+> [!danger] If you'd like to showcase your previous prestige gear/sets, it is recommended you place the items in a Shulker, Item Frame or on an Armor Stand <mark style="color:yellow;">**prior**</mark> to purchasing your next prestige.
 
-## _➮_ Benefits
+# _➮_ Benefits
 
 Activating the prestige ranks will unlock the following in differing amounts, based on prestige level and guild rank level:
 

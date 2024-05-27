@@ -5428,7 +5428,7 @@ var esm_default = gitInstanceFactory;
 // src/services/gitService.ts
 var DEFAULT_REMOTE = "origin";
 var CURRENT_TIME = () => (0, import_dayjs.default)().format("YYYY-MM-DDTHH:mm");
-var COMMIT_MESSAGE = (deviceName) => `chore: vault backup from ${deviceName} at ${CURRENT_TIME()}`;
+var COMMIT_MESSAGE = (deviceName) => `vault sync at ${CURRENT_TIME()}`;
 var SimpleGitService = class {
   constructor(repoPath, settings) {
     this.settings = settings;

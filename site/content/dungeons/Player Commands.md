@@ -1,5 +1,3 @@
-# Player Commands
-
 <details>
 
 <summary>➮ Core Commands</summary>

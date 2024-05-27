@@ -1,19 +1,8 @@
----
-description: >-
-  Voting on various vote sites not only helps out your favorite server, but also
-  can give you some cool rewards like in-game currency and cosmetic cubelet
-  crates.
----
-
-# Voting
-
 > <a href="https://freedomcraft.network/vote" target="_top">Voting Links</a>
 
-## _➮ Daily Vote Rewards:_
+# _➮ Daily Vote Rewards:_
 
-{% hint style="success" %}
-Every vote rewards the player $100 of in-game currency
-{% endhint %}
+> [!success] Every vote rewards the player $100 of in-game currency
 
 <details>
 
@@ -31,7 +20,7 @@ Every vote rewards the player $100 of in-game currency
 
 </details>
 
-## _➮ Cumulative Vote Rewards:_
+# _➮ Cumulative Vote Rewards:_
 
 {% tabs %}
 {% tab title="Monthly Rewards" %}
@@ -57,7 +46,7 @@ Every vote rewards the player $100 of in-game currency
 {% endtab %}
 {% endtabs %}
 
-## _➮ LeaderBoard Vote Rewards:_
+# _➮ LeaderBoard Vote Rewards:_
 
 {% tabs %}
 {% tab title="Monthly Rewards" %}

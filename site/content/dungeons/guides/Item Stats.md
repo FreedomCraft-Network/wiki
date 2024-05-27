@@ -1,8 +1,3 @@
----
-description: What they are, what they do, how to get them, and whether you have good ones!
----
-
-# Item Stats
 
 **What they are:**\
 \
