@@ -1,3 +1,4 @@
+
 # Navigating the Network
 
 ## _➮_ Lobby
@@ -11,3 +12,28 @@ Hovering over any icon will give basic information about each server and allow y
 {% hint style="info" %}
 You can return to the Lobby at any point or from any server by simply using <mark style="color:orange;">`/hub`</mark>
 {% endhint %}
+
+# General Commands
+
+## _➮_ Menus
+
+* /menu
+* /network
+* /servers
+
+## _➮_ Friends & Parties
+
+* /party invite \[name]
+* /friend add \[name]
+* /friend jumpto \[name]&#x20;
+
+## _➮_ Voting
+
+* /vote
+* /votetop
+* /voterewards
+
+## _➮_ Help
+
+* /help
+* /guide

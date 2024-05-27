@@ -1,6 +1,6 @@
 # Table of contents
 
-* [ℹ️ About Us](index.md)
+* [About Us ℹ️](About%Us%ℹ️.md)
   * [Mod List Info](network-information/Mod%20List%20Info.md)
 * How to Join?
   * [Supported Platforms](network-information/how-to-join/supported-platforms.md)
@@ -9,7 +9,7 @@
 ## Network Information
 
 * Discord
-  * [Link: Minecraft - Discord](network-information/discord/link-minecraft-discord.md)
+  * [Link: Minecraft - Discord](Discord.md)
   * [Discord Invite](https://freedomcraftmc.com/discord)
 * Store
   * [Ranks](network-information/store/Ranks.md)
@@ -19,29 +19,29 @@
 ## Servers
 
 * Global
-  * [Navigating the Network](servers/global/navigating-the-network.md)
-  * [General Commands](servers/global/general-commands.md)
+  * [Navigating the Network](network-information/Navigating%20the%20Network.md)
+  * [General Commands](network-information/Minecraft%20Intro.md)
 * Dungeons
-  * [Getting Started](servers/dungeons/getting-started.md)
-  * [Player Commands](servers/dungeons/player-commands.md)
+  * [Getting Started](dungeons/getting-started.md)
+  * [Player Commands](dungeons/player-commands.md)
   * [Guides](servers/dungeons/guides/README.md)
-    * [World Information](servers/dungeons/guides/world-information.md)
-    * [Land Claiming](servers/dungeons/guides/land-claiming.md)
-    * [Guild Ranks](servers/dungeons/guides/guild-ranks.md)
-    * [Prestige Ranks](servers/dungeons/guides/prestige-ranks.md)
-    * [Economy](servers/dungeons/guides/economy.md)
-    * [Item Stats](servers/dungeons/guides/item-stats.md)
-    * [BloodMoon Event](servers/dungeons/guides/bloodmoon-event.md)
-    * [Dungeon Instances](servers/dungeons/guides/dungeon-instances.md)
-    * [Voting](servers/dungeons/guides/voting.md)
+    * [World Information](dungeons/guides/world-information.md)
+    * [Land Claiming](dungeons/guides/land-claiming.md)
+    * [Guild Ranks](dungeons/guides/guild-ranks.md)
+    * [Prestige Ranks](dungeons/guides/prestige-ranks.md)
+    * [Economy](dungeons/guides/economy.md)
+    * [Item Stats](dungeons/guides/item-stats.md)
+    * [BloodMoon Event](dungeons/guides/bloodmoon-event.md)
+    * [Dungeon Instances](dungeons/guides/dungeon-instances.md)
+    * [Voting](dungeons/guides/voting.md)
 * [Creative](servers/creative/README.md)
-  * [Getting Started](servers/creative/getting-started.md)
-  * [Player Commands](servers/creative/player-commands.md)
+  * [Getting Started](creative/getting-started.md)
+  * [Player Commands](creative/player-commands.md)
   * [Guides](servers/creative/guides/README.md)
-    * [Creating & Managing Plots](servers/creative/guides/creating-and-managing-plots.md)
-    * [World Edit: Beginners](servers/creative/guides/world-edit-beginners.md)
-    * [World Edit: Beyond the Basics](servers/creative/guides/world-edit-beyond-the-basics.md)
-    * [Cosmetics](servers/creative/guides/cosmetics.md)
+    * [Creating & Managing Plots](creative/guides/creating-and-managing-plots.md)
+    * [World Edit: Beginners](creative/guides/world-edit-beginners.md)
+    * [World Edit: Beyond the Basics](creative/guides/world-edit-beyond-the-basics.md)
+    * [Cosmetics](creative/guides/cosmetics.md)
 
 ## 🎫 Support Information
 
