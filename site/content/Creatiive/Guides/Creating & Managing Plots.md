@@ -1,5 +1,3 @@
-# Creating & Managing Plots
-
 To first claim a plot, use the command <mark style="color:orange;">`/plot auto`</mark> or if you've found a space in the plotworld you would like to take, use the command <mark style="color:orange;">`/plot claim`</mark>.
 
 <details>

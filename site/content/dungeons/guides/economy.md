@@ -16,7 +16,7 @@ Jobs are a solid way to get started with making money on the server. Typing <mar
 \
 It is possible to swap between jobs without losing experience in previously held jobs, so it is possible to minmax your payout by jumping between them!\
 \
-Jobs experience and payouts do not carry over into [Dungeon Instances](Dungeon%20Instances.md), however engaging in events like [Blood Moons](BloodMoon%20Event.md) will still help with your Hunter levels.
+Jobs experience and payouts do not carry over into [Dungeon Instances](Dungeon%20Instances.md), however engaging in events like [Blood Moons](Lunar%20Event.md) will still help with your Hunter levels.
 
 # _➮ Quests_
 
@@ -30,7 +30,7 @@ Similar to [Jobs](Economy.md#jobs), Quests are not active within [Dungeon Instan
 
 Minions are incredibly expensive but are also very rewarding! They are sources of nearly passive income, generating anything from crops, building blocks, and even rare ores at the cost of various fuel types.\
 \
-Minions are for largely established players who have been working on collecting money for some time. It is also important to have a strong base defense with sturdy walls and a thick roof to protect these Minions and the blocks that they stand on during the [Blood Moon Event](BloodMoon%20Event.md).
+Minions are for largely established players who have been working on collecting money for some time. It is also important to have a strong base defense with sturdy walls and a thick roof to protect these Minions and the blocks that they stand on during the [Blood Moon Event](Lunar%20Event.md).
 
 {% tabs %}
 {% tab title="Farmer Minon" %}

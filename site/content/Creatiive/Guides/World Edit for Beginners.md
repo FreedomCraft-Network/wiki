@@ -1,4 +1,4 @@
-# World Edit: Beginners
+# 
 
 WorldEdit is a donator only perk for Creative if you have the Backer Rank this will allow you to edit an area quickly. You begin with the command <mark style="color:orange;">`//wand`</mark> which will give you a Wooden Axe. WorldEdit allows you to replace or delete thousands of blocks in seconds, helping you to quickly start and finish builds.&#x20;
 

@@ -21,11 +21,10 @@ For setting up a Personal Vault see [Obsidian.md Community Hub](https://publish.
 
 # Setup and Vault Consistency
 
-To contribute, please [download the latest version](https://github.com/FreedomCraft-Network/wiki/releases/latest) of this vault and open it in Obsidian. This is important to avoid duplicating content, and allows you to use the autocomplete when linking to other notes, searching and following our content guidelines.
+To contribute, please make a [fork of this repository](https://github.com/FreedomCraft-Network/wiki/fork), clone your Forked Repo locally and open it in Obsidian. This is important to avoid duplicating content, and allows you to use the autocomplete when linking to other notes, searching and following our content guidelines.
 
 Because Personal Knowledge Management is usually (as it name states) _highly_ personal, we have added a few rules about how we use Obsidian features to keep this Community vault consistent (and to preserve our sanity 🙂)
 
-- **Tags**: We mostly use tags to indicate the status of a Task. You can find more details in the [[Knowledgebase/References/📍 Tag Glossary|📍 Tag Glossary]].
 - **Files & Links**: Make sure that any time you add or edit a note, your settings are configured correctly. This should be set up by default. To sum up:
     - Configure `Location of new notes` to go the [[Inbox/🗂️ New Notes - Overview|🗂️ Inbox]] folder.
     - Links should be set to `Relative Paths` and wiki links must be enabled.

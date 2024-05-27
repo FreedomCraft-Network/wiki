@@ -1,6 +1,4 @@
-# Getting Started
-
-## _➮_ Introduction
+# _➮_ Introduction
 
 When you join the Creative Server you will find yourself in our Creative Realm Spawn area. This area was donated by a community member and is still under Active Construction. In the coming weeks you will see **new** Information Signs and NPCs that will introduce you and guide you through out the Creative Realm.
 

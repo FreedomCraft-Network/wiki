@@ -1,5 +1,3 @@
-# Player Commands
-
 * /gmc
 * /plot claim
 * /plot merge

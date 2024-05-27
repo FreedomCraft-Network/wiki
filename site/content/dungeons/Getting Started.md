@@ -13,13 +13,13 @@ Once you've established a base with resources and some farms to keep yourself fe
 # _➮_ Page Links
 
 {% content-ref url="guides/guild-ranks.md" %}
-[guild-ranks.md](guides/Guild%20Ranks.md)
+[guild-ranks.md](Guides/Guild%20Ranks.md)
 {% endcontent-ref %}
 
 {% content-ref url="guides/bloodmoon-event.md" %}
-[bloodmoon-event.md](guides/BloodMoon%20Event.md)
+[bloodmoon-event.md](Guides/Lunar%20Event.md)
 {% endcontent-ref %}
 
 {% content-ref url="guides/dungeon-instances.md" %}
-[dungeon-instances.md](guides/Dungeon%20Instances.md)
+[dungeon-instances.md](Guides/Dungeon%20Instances.md)
 {% endcontent-ref %}

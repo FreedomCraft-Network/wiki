@@ -9,9 +9,7 @@ Straight ahead are NPCs (non-playing characters) you can click to join the game 
 
 Hovering over any icon will give basic information about each server and allow you to join. Each game mode is described within this wiki.
 
-{% hint style="info" %}
-You can return to the Lobby at any point or from any server by simply using <mark style="color:orange;">`/hub`</mark>
-{% endhint %}
+> [!tip] You can return to the Lobby at any point or from any server by simply using `/hub`
 
 # General Commands
 
