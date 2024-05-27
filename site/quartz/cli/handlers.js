@@ -199,7 +199,7 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 
   // setup remote
   execSync(
-    `git remote show upstream || git remote add upstream https://github.com/jackyzha0/quartz.git`,
+    `git remote show upstream || git remote add upstream https://github.com/FreedomCraft-Network/quartz.git`,
     { stdio: "ignore" },
   )
 
