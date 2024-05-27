@@ -10,7 +10,7 @@ For the best experience, we recommend [downloading the latest version](https://
 
 > :construction: This is a Work In Progress
 
-## :link: Support & Dependencies
+## 🔗 Support & Dependencies
 ![Windows](https://flat.badgen.net/badge/Windows/10+/5865F2?icon=windows)
 ![OSX](https://flat.badgen.net/badge/OSX%20Version/12+/5865F2?icon=apple)
 [![Obsidian](https://flat.badgen.net/badge/Obsidian/Required/5865F2?icon=obsidian.md)](https://obsidian.md)
@@ -26,13 +26,13 @@ For the best experience, we recommend [downloading the latest version](https://
 	- [Setup & Vault Consistency](./CONTRIBUTING.md#Setup-and-Vault-Consistency)
 	- [Discuss your design](./CONTRIBUTING.md#Discuss-your-design)
 
-## :rocket: Usage
+## 🚀 Usage
 - :heavy_check_mark: FreedomCraft Documentation
 - :x: Project & Task Management
 - :x: Asset/Image Storage
 - :x: Personal Note Taking
 - :x: Internal Documentation/Task Management
 
-## :dart: Future Goals
+## 🎯 Future Goals
 - :tada: Add Examples for [Usage](#rocket-usage)
 - :tada: Add Git Workflows for spellcheck/formatting standard

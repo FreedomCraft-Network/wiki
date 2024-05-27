@@ -2,5 +2,10 @@
   "dataview",
   "cicada-sync",
   "obsidian-git",
-  "homepage"
+  "homepage",
+  "calendar",
+  "heatmap-calendar",
+  "mermaid-tools",
+  "emoji-shortcodes",
+  "obsidian-emoji-toolbar"
 ]
