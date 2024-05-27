@@ -1,16 +1,16 @@
 # 🎫 Support Information
 
 * [❓ FAQ](Help/❓%20FAQ.md)
-* [Known Issues](support-information/known-issues.md)
+* [Known Issues](Help/❓%20FAQ.md#Known-Issues)
 * Getting Help
-  * [In-Game](support-information/getting-help/in-game.md)
-  * [Discord](support-information/getting-help/discord.md)
+  * [[In-Game]]
+  * [[Discord]]
 
 # 🔗 Links
 
 * [🌐 Website](https://freedomcraft.network/)
 * [📶 Status](https://heartbeat.freedomcraft.systems)
-* [🗺️ Live Map](https://map.freedomcraftmc.com/)
+* [🗺️ Live Map](https://map.freedomcraft.network/)
 * [💬 Discord](https://freedomcraft.network/discord)
 * [💻 Git](https://git.freedomcraft.systems/FreedomCraft)
 * [🎨 Resource Pack](https://freedomcraft.network/resource-pack/)
