@@ -1,13 +1,8 @@
 
 > [!warning] This documentation is a work-in-progress. There may be errors or typos in the guides, however we're constantly working to improve them.
 
-> [!tip] FreedomCraft Network 
-> <a href="https://freedomcraft.network" target="_top">Website</a>
-> <a href="https://freedomcraft.network/store" target="_top">Webstore</a>
-> <a href="https://freedomcraft.network/discord" target="_top">Discord</a>
+![image](https://cdn.freedomcraft.systems/assets/wiki/about_us.png)
 
-
-<figure><img src="https//cdn.freedomcraft.systems/assets/wiki/about_us.png" alt=""><figcaption></figcaption></figure>
 
 ### _➮_ General Info
 

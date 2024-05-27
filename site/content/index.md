@@ -22,7 +22,7 @@
 
 * Global
   * [Navigating the Network](network-information/Navigating%20the%20Network.md)
-  * [General Commands](1%20-%20General%20Info/Minecraft%20Intro.md)
+  * [General Commands](Summary.md)
 * Dungeons
   * [Getting Started](Dungeons/Getting%20Started.md)
   * [Player Commands](Dungeons/Player%20Commands.md)
@@ -37,11 +37,11 @@
     * [Dungeon Instances](Dungeons/Guides/Dungeon%20Instances.md)
     * [Voting](Dungeons/Guides/Voting.md)
 * [Creative](servers/creative/README.md)
-  * [Getting Started](Creatiive/Getting%20Started.md)
-  * [Player Commands](Creatiive/Player%20Commands.md)
+  * [Getting Started](Creative/Getting%20Started.md)
+  * [Player Commands](Creative/Player%20Commands.md)
   * [Guides](servers/creative/guides/README.md)
-    * [Creating & Managing Plots](Creatiive/Guides/Creating%20&%20Managing%20Plots.md)
-    * [World Edit: Beginners](Creatiive/Guides/World%20Edit%20for%20Beginners.md)
-    * [World Edit: Beyond the Basics](Creatiive/Guides/World%20Edit%20Beyond%20the%20Basics.md)
-    * [Cosmetics](Creatiive/Guides/Cosmetics.md)
+    * [Creating & Managing Plots](Creative/Guides/Creating%20&%20Managing%20Plots.md)
+    * [World Edit: Beginners](Creative/Guides/World%20Edit%20for%20Beginners.md)
+    * [World Edit: Beyond the Basics](Creative/Guides/World%20Edit%20Beyond%20the%20Basics.md)
+    * [Cosmetics](Creative/Guides/Cosmetics.md)
 
