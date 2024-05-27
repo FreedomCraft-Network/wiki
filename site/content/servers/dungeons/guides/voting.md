@@ -7,9 +7,7 @@ description: >-
 
 # Voting
 
-## _➮ Vote Site:_
-
-{% embed url="https://freedomcraftmc.com/vote" %}
+> <a href="https://freedomcraft.network/vote" target="_top">Voting Links</a>
 
 ## _➮ Daily Vote Rewards:_
 

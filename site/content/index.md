@@ -1,10 +1,10 @@
 # Table of contents
 
 * [ℹ️ About Us](index.md)
-  * [Mod List Info](about-us/mod-list-info.md)
+  * [Mod List Info](network-information/mod-list-info.md)
 * How to Join?
-  * [Supported Platforms](how-to-join/supported-platforms.md)
-  * [Bedrock Edition](how-to-join/bedrock-edition.md)
+  * [Supported Platforms](network-information/how-to-join/supported-platforms.md)
+  * [Bedrock Edition](network-information/how-to-join/bedrock-edition.md)
 
 ## Network Information
 
@@ -45,7 +45,7 @@
 
 ## 🎫 Support Information
 
-* [FAQ](support-information/faq.md)
+* [❓ FAQ](❓%20FAQ.md)
 * [Known Issues](support-information/known-issues.md)
 * Getting Help
   * [In-Game](support-information/getting-help/in-game.md)

@@ -1,9 +1,14 @@
 
 > [!warning] This documentation is a work-in-progress. There may be errors or typos in the guides, however we're constantly working to improve them.
 
-{% embed url="https://freedomcraft.network/" %}
+> [!tip] FreedomCraft Network 
+> <a href="https://freedomcraft.network" target="_top">Website</a>
+> <a href="https://freedomcraft.network/store" target="_top">Webstore</a>
+> <a href="https://freedomcraft.network/discord" target="_top">Discord</a>
+
 
 <figure><img src="https//cdn.freedomcraft.systems/assets/wiki/about_us.png" alt=""><figcaption></figcaption></figure>
+
 ### _➮_ General Info
 
 * 38+ Custom Dungeons, most handmade by our own staff!
@@ -22,3 +27,5 @@
 * Custom Pets, providing combat bonuses and status effects
 * Custom Turrets, providing defense against the Lunar Events at players' bases
 * 13+ Mob Arenas with 30 waves each and unique bosses/rewards throughout
+
+
