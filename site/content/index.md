@@ -1,7 +1,7 @@
 # Table of contents
 
 * [ℹ️ About Us](index.md)
-  * [Mod List Info](network-information/mod-list-info.md)
+  * [Mod List Info](network-information/Mod%20List%20Info.md)
 * How to Join?
   * [Supported Platforms](network-information/how-to-join/supported-platforms.md)
   * [Bedrock Edition](network-information/how-to-join/bedrock-edition.md)
@@ -12,8 +12,8 @@
   * [Link: Minecraft - Discord](network-information/discord/link-minecraft-discord.md)
   * [Discord Invite](https://freedomcraftmc.com/discord)
 * Store
-  * [Ranks](network-information/store/ranks.md)
-  * [FAQ](network-information/store/faq.md)
+  * [Ranks](network-information/store/Ranks.md)
+  * [FAQ](network-information/store/FAQ.md)
 * [Rules](https://freedomcraftmc.com/rules)
 
 ## Servers
@@ -45,7 +45,7 @@
 
 ## 🎫 Support Information
 
-* [❓ FAQ](❓%20FAQ.md)
+* [FAQ ❓](FAQ%20❓.md)
 * [Known Issues](support-information/known-issues.md)
 * Getting Help
   * [In-Game](support-information/getting-help/in-game.md)

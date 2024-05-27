@@ -1,9 +1,8 @@
-# FAQ
+
 
 **Q: I purchased something in the store but I haven't received it in-game!**\
 \
 **A:** When you purchase something, it takes a little while for it to update in our store, and send the commands to our servers. It can take up to 5-10 minutes before your purchased content arrives. If it doesn't, get in touch with a staff member and we'll get it to you manually!\
-
 
 
 
@@ -16,7 +15,6 @@
 **Q: Who do I go to if I need help or if something goes wrong?**\
 \
 **A:** It's not very likely something goes wrong, but if it does, then get in touch with us on Discord, click [**here**](https://freedomcraftmc.com/discord) link to join!\
-
 
 
 

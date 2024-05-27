@@ -1,10 +1,6 @@
-# Mod List Info
+> [!info] Only modifications which are purely cosmetic are permitted. Anything that gives any form of advantage or ability that other players do not have is not permitted.
 
 ## _➮_ Approved Mods List
-
-{% hint style="success" %}
-Only modifications which are purely cosmetic are permitted. Anything that gives any form of advantage or ability that other players do not have is not permitted.
-{% endhint %}
 
 * NotEnoughItems&#x20;
 * OptiFine&#x20;
