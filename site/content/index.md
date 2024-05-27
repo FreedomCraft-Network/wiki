@@ -1,30 +1,61 @@
-# ℹ️ About Us
+# Table of contents
 
-{% hint style="warning" %}
-This documentation is a work-in-progress. There may be errors or typos in the guides, however we're constantly working to improve them.
-{% endhint %}
+* [ℹ️ About Us](index.md)
+  * [Mod List Info](about-us/mod-list-info.md)
+* How to Join?
+  * [Supported Platforms](how-to-join/supported-platforms.md)
+  * [Bedrock Edition](how-to-join/bedrock-edition.md)
 
-{% embed url="https://freedomcraft.network/" %}
+## Network Information
 
-<figure><img src=".gitbook/assets/about_us.png" alt=""><figcaption></figcaption></figure>
+* Discord
+  * [Link: Minecraft - Discord](network-information/discord/link-minecraft-discord.md)
+  * [Discord Invite](https://freedomcraftmc.com/discord)
+* Store
+  * [Ranks](network-information/store/ranks.md)
+  * [FAQ](network-information/store/faq.md)
+* [Rules](https://freedomcraftmc.com/rules)
 
-### _➮_ General Info
+## Servers
 
-* 38+ Custom Dungeons, most handmade by our own staff!
-* 10K+ Dungeon mobs to fight!
-* 200+ Challenging dungeon bosses and minibosses!
-* 100+ Randomized world events and world bosses
-* 8 in game days for a customized Bloodmoon providing unique challenges and rewards!﻿
+* Global
+  * [Navigating the Network](servers/global/navigating-the-network.md)
+  * [General Commands](servers/global/general-commands.md)
+* Dungeons
+  * [Getting Started](servers/dungeons/getting-started.md)
+  * [Player Commands](servers/dungeons/player-commands.md)
+  * [Guides](servers/dungeons/guides/README.md)
+    * [World Information](servers/dungeons/guides/world-information.md)
+    * [Land Claiming](servers/dungeons/guides/land-claiming.md)
+    * [Guild Ranks](servers/dungeons/guides/guild-ranks.md)
+    * [Prestige Ranks](servers/dungeons/guides/prestige-ranks.md)
+    * [Economy](servers/dungeons/guides/economy.md)
+    * [Item Stats](servers/dungeons/guides/item-stats.md)
+    * [BloodMoon Event](servers/dungeons/guides/bloodmoon-event.md)
+    * [Dungeon Instances](servers/dungeons/guides/dungeon-instances.md)
+    * [Voting](servers/dungeons/guides/voting.md)
+* [Creative](servers/creative/README.md)
+  * [Getting Started](servers/creative/getting-started.md)
+  * [Player Commands](servers/creative/player-commands.md)
+  * [Guides](servers/creative/guides/README.md)
+    * [Creating & Managing Plots](servers/creative/guides/creating-and-managing-plots.md)
+    * [World Edit: Beginners](servers/creative/guides/world-edit-beginners.md)
+    * [World Edit: Beyond the Basics](servers/creative/guides/world-edit-beyond-the-basics.md)
+    * [Cosmetics](servers/creative/guides/cosmetics.md)
 
-### _➮_ Depth & Quality of Life
+## 🎫 Support Information
 
-* Custom Instancing Setup: You will never run out of dungeon content because it is cleared or occupied!
-* Custom Coded RPG Stats plugin with special accessories and bonuses on gear!
-* Custom Skins, Models, Boss Powers, and Environments for originality!
+* [FAQ](support-information/faq.md)
+* [Known Issues](support-information/known-issues.md)
+* Getting Help
+  * [In-Game](support-information/getting-help/in-game.md)
+  * [Discord](support-information/getting-help/discord.md)
 
-### _➮_ Planned/WIP Features:
+## 🔗 Links
 
-* Custom Classes, allowing players to unlock more abilities and spec certain paths to make combat more interesting
-* Custom Pets, providing combat bonuses and status effects
-* Custom Turrets, providing defense against the Bloodmoon at players' bases
-* 13+ Mob Arenas with 30 waves each and unique bosses/rewards throughout
+* [🌐 Website](https://freedomcraft.network/)
+* [📶 Status](https://heartbeat.freedomcraft.systems)
+* [🗺️ Live Map](https://map.freedomcraftmc.com/)
+* [💬 Discord](https://freedomcraft.network/discord)
+* [💻 Git](https://git.freedomcraft.systems/FreedomCraft)
+* [🎨 Resource Pack](https://freedomcraft.network/resource-pack/)
