@@ -9,7 +9,7 @@
 ## Resource Pack
 - Vanilla HUD no longer works on MC 1.20.1 or older. 
 	- 1.20.2/1.20.3 MC Client suffer from a Bug that forces RP Reload on Server Switch
-	- 1.20. is the recommended client on FreedomCraft-Network
+	- 1.20.4 is the recommended client on FreedomCraft-Network
 
 
 # Frequently Asked Questions 
@@ -25,7 +25,7 @@ A: You can appeal a ban [here](https://freedomcraft.network/appeal), or a mute s
 
 
 Q: Can I make contributions to this Wiki?
-A: YES! Simply make a [fork of this repository](https://github.com/FreedomCraft-Network/wiki/fork) and read the [[../../../CONTRIBUTING|CONTRIBUTING.md]]. When your Contribution are ready submit a PR following the Cntributing Guidelines for approval.
+A: YES! Simply make a [fork of this repository](https://github.com/FreedomCraft-Network/wiki/fork) and read the [[../../../CONTRIBUTING|CONTRIBUTING.md]]. When your Contribution are ready submit a PR following the Contributing Guidelines for approval.
 
 ## Store
 
