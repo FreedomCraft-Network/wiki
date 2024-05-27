@@ -1,5 +1,3 @@
-# Ranks
-
 {% embed url="https://freedomcraft.network/store/category/ranks/" %}
 
 {% tabs %}

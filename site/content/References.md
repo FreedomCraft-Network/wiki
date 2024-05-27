@@ -1,6 +1,6 @@
 # 🎫 Support Information
 
-* [FAQ ❓](FAQ%20❓.md)
+* [❓ FAQ](Help/❓%20FAQ.md)
 * [Known Issues](support-information/known-issues.md)
 * Getting Help
   * [In-Game](support-information/getting-help/in-game.md)

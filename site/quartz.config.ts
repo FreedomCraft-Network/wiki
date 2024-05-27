@@ -4,11 +4,11 @@ import * as Plugin from "./quartz/plugins"
 /**
  * Quartz 4.0 Configuration
  *
- * See https://quartz.jzhao.xyz/configuration for more information.
+ * See https://quartz.freedomcraft.dev/configuration for more information.
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "FreedomCraft Wiki",
+    pageTitle: "Wiki",
     enableSPA: true,
     enablePopovers: true,
     analytics: {

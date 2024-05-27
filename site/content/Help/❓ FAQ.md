@@ -23,5 +23,5 @@ A: You can appeal a ban [here](https://freedomcraft.network/appeal), or a mute s
 
 
 Q: Can I make contributions to this Wiki?
-A: YES! Simply make a [fork of this repository](https://github.com/FreedomCraft-Network/wiki/fork) and read the [[../../CONTRIBUTING|CONTRIBUTING.md]]. When your Contribution are ready submit a PR following the Cntributing Guidelines for approval.
+A: YES! Simply make a [fork of this repository](https://github.com/FreedomCraft-Network/wiki/fork) and read the [[../../../CONTRIBUTING|CONTRIBUTING.md]]. When your Contribution are ready submit a PR following the Cntributing Guidelines for approval.
 

@@ -5,3 +5,12 @@ When you join the Creative Server you will find yourself in our Creative Realm S
 To simply get started, run straight down the path from spawn and jump into the portal to be teleported to the Creative Plots Realm. You will need to run or fly and find an unclaimed plot to claim for yourself and call "home"! \
 \
 _You can also use `/plot auto` when you are in the Creative Spawn to automatically claim and teleport to a random plot._
+
+# _➮_ Player Commands
+
+* /gmc
+* /plot claim
+* /plot merge
+* /plot trust \<player />
+* /plot home
+* /spawn
