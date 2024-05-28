@@ -1,10 +1,8 @@
 # 
 
-WorldEdit is a donator only perk for Creative if you have the Backer Rank this will allow you to edit an area quickly. You begin with the command <mark style="color:orange;">`//wand`</mark> which will give you a Wooden Axe. WorldEdit allows you to replace or delete thousands of blocks in seconds, helping you to quickly start and finish builds.&#x20;
+WorldEdit is a donator only perk for Creative if you have the Backer Rank this will allow you to edit an area quickly. You begin with the command `//wand` which will give you a Wooden Axe. WorldEdit allows you to replace or delete thousands of blocks in seconds, helping you to quickly start and finish builds.&#x20;
 
-<details>
-
-<summary><em>➮</em> Commands</summary>
+➮ Commands
 
 //pos1 - Set your first position to where you are standing \
 //pos2 - Set your second position to where you are standing \
@@ -21,7 +19,5 @@ WorldEdit is a donator only perk for Creative if you have the Backer Rank this w
 //brush \[type] \[ID] \[1-5] - Paints using your choice of pattern \
 //sel \[type] - Change your tool (This allows you to create Spheres and such) \
 //stack \[amount] - Stacks your selection in the direction you're facing \
-//wand - Recieve the wand tool \
+//wand - Receive the wand tool \
 //desel - Unselect your current selection
-
-</details>

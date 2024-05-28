@@ -2,18 +2,18 @@
 
 ## _➮_ Approved Mods List
 
-* NotEnoughItems&#x20;
-* OptiFine&#x20;
-* TabbyChat&#x20;
-* BetterFPS&#x20;
-* Gammabright/fullbright&#x20;
-* Shaders Mod&#x20;
-* Pop Enchant Tags&#x20;
-* Biome Borders&#x20;
-* Chunk Borders&#x20;
+* NotEnoughItems
+* OptiFine
+* TabbyChat
+* BetterFPS
+* Gammabright/fullbright
+* Shaders Mod
+* Pop Enchant Tags
+* Biome Borders
+* Chunk Borders
 * Sound Physics
-* Potion Icon Remover&#x20;
-* Shulker Box Tooltips&#x20;
-* Inventory Tweaks&#x20;
-* Notes&#x20;
-* Chat Bubbles&#x20;
+* Potion Icon Remover
+* Shulker Box Tooltips
+* Inventory Tweaks
+* Notes
+* Chat Bubbles

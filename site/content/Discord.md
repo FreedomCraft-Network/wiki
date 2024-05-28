@@ -5,10 +5,10 @@
 
 ## _➮_ Instructions
 
-* Join the FreedomCraft Discord if you haven't already, from [here](https://freedomcraft.network/discord) or <mark style="color:orange;">`/discord`</mark> in-game.
-* After joining, use <mark style="color:orange;">`/discord`</mark> in <mark style="color:orange;">`/hub`</mark> to receive the code to Link Accounts
+* Join the FreedomCraft Discord if you haven't already, from [here](https://freedomcraft.network/discord) or `/discord` in-game.
+* After joining, use `/discord` in `/hub` to receive the code to Link Accounts
 * Copy the 4 Digit Code you are given
-* DM the code to our Discord Bot: <mark style="color:blue;">⸝⸝ PrimeServerChat#4177</mark>
+* DM the code to our Discord Bot: `⸝⸝ PrimeServerChat#4177`
 
 ## _➮_ Benefits
 

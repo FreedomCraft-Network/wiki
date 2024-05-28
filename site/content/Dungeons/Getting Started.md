@@ -2,7 +2,7 @@
 
 FreedomCraft Dungeons Gamemode is a Survival-Like RPG Gamemode with seemingly never-ending progression and rewards.&#x20;
 
-When you join the Dungeons Server for the first time you will find yourself in the Commoner Hall at spawn. This region will serve as the hub for all your RPG needs and can always returned to with <mark style="color:orange;">`/spawn`</mark>.
+When you join the Dungeons Server for the first time you will find yourself in the Commoner Hall at spawn. This region will serve as the hub for all your RPG needs and can always returned to with `/spawn`.
 
 # _➮_ What to do?
 
