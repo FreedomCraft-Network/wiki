@@ -12,7 +12,7 @@
 
 # Introduction
 
-This document explains how to contribute changes to Freedomcraft Wiki Vault.
+This document explains how to contribute changes to Freedomcraft Wiki.
 
 > Sensitive security-related issues should be reported to
 [security@freedomcraft.email](mailto:security@freedomcraft.email).
@@ -67,7 +67,7 @@ high-level discussions.
 
 # Verification Process
 
-Changes to FreedomCraft Wiki Vault must be reviewed before they are accepted—unless they are an owner or a maintainer. We use GitHub's
+Changes to Freedomcraft Wiki must be reviewed before they are accepted—unless they are an owner or a maintainer. We use GitHub's
 pull request & review workflow to do that. GitHub ensures every PR is reviewed by at least 1 maintainer.
 
 Please try to make your pull request easy to review for us.
