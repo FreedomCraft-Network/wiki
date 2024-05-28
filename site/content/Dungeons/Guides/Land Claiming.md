@@ -4,38 +4,38 @@
 
 New players can create up to 2 separate lands and claim a total of 80 chunks. Additional claim chunks are provided for every hour of active playtime and additional Land Ownership Slots are rewarded every 7-days of active playtime automatically.
 
-1. Create a Land - <mark style="color:orange;">`/lands create <name>`</mark>
-2. Claim a Chunk - <mark style="color:orange;">`/lands claim`</mark>
-3. Set Land Spawn - <mark style="color:orange;">`/lands setspawn`</mark>
-4. Deposit to Land Bank - <mark style="color:orange;">`/lands deposit <amount>`</mark>&#x20;
-5. Claim more & work your way to <mark style="color:orange;">`/lands top`</mark>
+1. Create a Land - `/lands create <name>`
+2. Claim a Chunk - `/lands claim`
+3. Set Land Spawn - `/lands setspawn`
+4. Deposit to Land Bank - `/lands deposit <amount>`&#x20;
+5. Claim more & work your way to `/lands top`
 
 # _➮ Extending Claims_
 
-You can simply stand in the chunks around your land and claim each chunk manually. Additionally, you can use the interactive <mark style="color:orange;">`/map`</mark> to claim the chunks around your land and extend your claims.
+You can simply stand in the chunks around your land and claim each chunk manually. Additionally, you can use the interactive `/map` to claim the chunks around your land and extend your claims.
 
 # _➮ Co-Op / Teaming_
 
 ### Trust Players
 
-Execute <mark style="color:orange;">`/lands trust <player>`</mark> Alternatively, open your land menu and go to players\
+Execute `/lands trust <player>` Alternatively, open your land menu and go to players\
 and click on the 'Trust Player' button.
 
 ### Untrust Players
 
-Execute <mark style="color:orange;">`/lands untrust <player>`</mark> Alternatively, open your land menu and go to players\
+Execute `/lands untrust <player>` Alternatively, open your land menu and go to players\
 and click on the 'Untrust Player' button.
 
 ### Toggle Permissions for Players
 
-1. Open your lands menu by executing <mark style="color:orange;">`/lands`</mark>
+1. Open your lands menu by executing `/lands`
 2. Click on the roles item
 3. Open the role settings menu
 4. Configure the settings to your liking
 
 ### Promote / Demote Players
 
-1. Open your lands menu by executing <mark style="color:orange;">`/lands`</mark>
+1. Open your lands menu by executing `/lands`
 2. Click on the player's item
 3. Use left click to promote and right click to demote them
 
@@ -43,4 +43,4 @@ and click on the 'Untrust Player' button.
 
 > [!danger] You only receive 75% of the cost back for each chunk unclaimed
 
-To un-claim a chunk, you can use the command <mark style="color:orange;">`/lands unclaim`</mark> whilst standing in it. Alternatively, to un-claim all chunks for a land simply use <mark style="color:orange;">`/lands unclaimall`</mark>
+To un-claim a chunk, you can use the command `/lands unclaim` whilst standing in it. Alternatively, to un-claim all chunks for a land simply use `/lands unclaimall`

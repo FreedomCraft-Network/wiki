@@ -1,4 +1,3 @@
-
 # How to Join?
 
 <figure><img src="../.gitbook/assets/banner.gif" alt=""><figcaption></figcaption></figure>
@@ -15,7 +14,7 @@
 * Launch an instance of Minecraft (Version 1.18.2 Recommended)
 * Open the Multiplayer menu
 * Click "Add server"
-* Paste the IP: <mark style="color:blue;">mc.freedomcraft.network</mark> into the "Server Address" Field
+* Paste the IP: `mc.freedomcraft.network` into the "Server Address" Field
 * Change "Sever Resource Packs:" to **Enabled** or **Prompt**
 * Select "Done" and you should now see FreedomCraft Network in your Server List
 * You can now join and explore the content on FreedomCraftMC
@@ -38,23 +37,23 @@ Hovering over any icon will give basic information about each server and allow y
 
 ## _➮_ Menus
 
-* /menu
-* /network
-* /servers
+- /menu
+- /network
+- /servers
 
 ## _➮_ Friends & Parties
 
-* /party invite \[name]
-* /friend add \[name]
-* /friend jumpto \[name]&#x20;
+- /party invite \[name]
+- /friend add \[name]
+- /friend jumpto \[name]&#x20;
 
 ## _➮_ Voting
 
-* /vote
-* /votetop
-* /voterewards
+- /vote
+- /votetop
+- /voterewards
 
 ## _➮_ Help
 
-* /help
-* /guide
+- /help
+- /guide

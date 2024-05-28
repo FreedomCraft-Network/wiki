@@ -6,7 +6,7 @@ At least, everything related to EliteMobs. The player's current guild rank will 
 
 This is quite interesting to see happen all at once when a fully equipped player activates the prestige while having all gear equipped, making it look like they're being born again.
 
-> [!danger] If you'd like to showcase your previous prestige gear/sets, it is recommended you place the items in a Shulker, Item Frame or on an Armor Stand <mark style="color:yellow;">**prior**</mark> to purchasing your next prestige.
+> [!danger] If you'd like to showcase your previous prestige gear/sets, it is recommended you place the items in a Shulker, Item Frame or on an Armor Stand **prior** to purchasing your next prestige.
 
 # _➮_ Benefits
 
