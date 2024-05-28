@@ -27,14 +27,14 @@ title: ℹ About Us
 # ⭐ Contents
 
 - [[Summary]]
-- [[Discord]]
 - Servers
-  - [Dungeons](Dungeons/Getting%20Started.md)
-  - [Creative](Creative/Getting%20Started.md)
+  - [[Creative/Getting Started|Creative]]
+  - [[Dungeons/Getting Started|Dungeons]]
 - Help
   - [[Help/❓ FAQ|❓ FAQ]]
-  - [Supported Platforms](Help/Supported%20Platforms.md)
-  - [Bedrock Edition](Help/Bedrock%20Edition.md)
+  - [[Help/Discord|Discord]]
+  - [[Help/Bedrock Edition|Bedrock Edition]]
+  - [[Help/Supported Platforms|Supported Platforms]]
 
 
 

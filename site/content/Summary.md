@@ -55,3 +55,20 @@ Hovering over any icon will give basic information about each server and allow y
 
 - /help
 - /guide
+
+# 🎫 Support Information
+
+* [❓ FAQ](Help/❓%20FAQ.md)
+* [Known Issues](Help/❓%20FAQ.md#Known-Issues)
+* Getting Help
+  * [[In-Game]]
+  * [[Help/Discord]]
+
+# 🔗 Links
+
+* [🌐 Website](https://freedomcraft.network/)
+* [📶 Status](https://heartbeat.freedomcraft.systems)
+* [🗺️ Live Map](https://map.freedomcraft.network/)
+* [💬 Discord](https://freedomcraft.network/discord)
+* [💻 Git](https://git.freedomcraft.systems/FreedomCraft)
+* [🎨 Resource Pack](https://freedomcraft.network/resource-pack/)

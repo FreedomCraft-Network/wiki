@@ -17,7 +17,7 @@
 ## General
 
 Q: Can I use Optifine or other mods?
-A: See our list of approved mods [here](https://dev.freedomcraft.wiki/network-information/mod-list-info#approved-mods-list) - unapproved mods can result in a permanent IP ban.
+A: See our list of approved mods [[Supported Platforms#_➮_ Approved Mods List|here]] - unapproved mods can result in a permanent IP ban.
 
 
 Q: I'm banned/muted on FreedomCraft, how do I get unbanned/unmuted?
@@ -43,7 +43,7 @@ A: YES! Simply make a [fork of this repository](https://github.com/FreedomCraft
 
 **Q: Who do I go to if I need help or if something goes wrong?**
 
-**A:** It's not very likely something goes wrong, but if it does, then get in touch with us on Discord, click [**here**](https://freedomcraftmc.com/discord) link to join!
+**A:** It's not very likely something goes wrong, but if it does, then get in touch with us on Discord, click [**here**](https://freedomcraft.network/discord) link to join!
 
 
 
