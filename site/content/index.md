@@ -1,4 +1,6 @@
-# ℹ About Us
+---
+title: ℹ About Us
+---
 
 ## _➮_ General Info
 - 38+ Custom Dungeons, most handmade by our own staff!

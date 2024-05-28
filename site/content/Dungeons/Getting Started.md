@@ -63,4 +63,4 @@ Once you've established a base with resources and some farms to keep yourself fe
 - [Item Stats](Dungeons/Guides/Item%20Stats.md)
 - [Lunar Event](Dungeons/Guides/Lunar%20Event.md)
 - [Dungeon Instances](Dungeons/Guides/Dungeon%20Instances.md)
-- [Voting](Dungeons/Guides/Voting.md)
+- [Voting](../Help/Voting.md)

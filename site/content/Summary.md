@@ -1,6 +1,6 @@
 # How to Join?
 
-<figure><img src="../.gitbook/assets/banner.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../assets/banner.gif" alt=""><figcaption></figcaption></figure>
 
 ## _➮_ Requirements
 
@@ -17,9 +17,7 @@
 * Paste the IP: `mc.freedomcraft.network` into the "Server Address" Field
 * Change "Sever Resource Packs:" to **Enabled** or **Prompt**
 * Select "Done" and you should now see FreedomCraft Network in your Server List
-* You can now join and explore the content on FreedomCraftMC
-
-{% embed url="https://freedomcraftmc.com" %}
+* You can now join and explore the content on FreedomCraft
 
 # Navigating the Network
 

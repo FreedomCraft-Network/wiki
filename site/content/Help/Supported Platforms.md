@@ -1,6 +1,4 @@
-# Supported Platforms
-
-#### _➮_ Java Edition&#x20;
+## _➮_ Java Edition
 
 _(Snapshot Releases not supported)_
 
@@ -9,7 +7,8 @@ _(Snapshot Releases not supported)_
 * 1.20.3
 * 1.20.4
 
-#### _➮_ Bedrock Edition&#x20;
+> [!warning] *Server Resource Pack is not supported on these versions/editions
+## _➮_ Bedrock Edition
 
 _(Pre-Releases/Beta not supported)_
 
@@ -21,4 +20,20 @@ _(Pre-Releases/Beta not supported)_
 
 > [!success] Console Connection Documentation Coming Soon
 
-> [!warning] *Server Resource Pack is not supported on these versions/editions
+## _➮_ Approved Mods List
+
+* NotEnoughItems
+* OptiFine
+* TabbyChat
+* BetterFPS
+* Gammabright/fullbright
+* Shaders Mod
+* Pop Enchant Tags
+* Biome Borders
+* Chunk Borders
+* Sound Physics
+* Potion Icon Remover
+* Shulker Box Tooltips
+* Inventory Tweaks
+* Notes
+* Chat Bubbles
