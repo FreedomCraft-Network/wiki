@@ -55,12 +55,12 @@ Once you've established a base with resources and some farms to keep yourself fe
 
 # _➮_ Guides
 
-* [World Information](Dungeons/Guides/World%20Information.md)
-* [Land Claiming](Dungeons/Guides/Land%20Claiming.md)
-* [Guild Ranks](Dungeons/Guides/Guild%20Ranks.md)
-* [Prestige Ranks](Dungeons/Guides/Prestige%20Ranks.md)
-* [Economy](Dungeons/Guides/Economy.md)
-* [Item Stats](Dungeons/Guides/Item%20Stats.md)
-* [Lunar Event](Dungeons/Guides/Lunar%20Event.md)
-* [Dungeon Instances](Dungeons/Guides/Dungeon%20Instances.md)
-* [Voting](Dungeons/Guides/Voting.md)
+- [World Information](Dungeons/Guides/World%20Information.md)
+- [Land Claiming](Dungeons/Guides/Land%20Claiming.md)
+- [Guild Ranks](Dungeons/Guides/Guild%20Ranks.md)
+- [Prestige Ranks](Dungeons/Guides/Prestige%20Ranks.md)
+- [Economy](Dungeons/Guides/Economy.md)
+- [Item Stats](Dungeons/Guides/Item%20Stats.md)
+- [Lunar Event](Dungeons/Guides/Lunar%20Event.md)
+- [Dungeon Instances](Dungeons/Guides/Dungeon%20Instances.md)
+- [Voting](Dungeons/Guides/Voting.md)

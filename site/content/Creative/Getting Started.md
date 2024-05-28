@@ -14,3 +14,10 @@ _You can also use `/plot auto` when you are in the Creative Spawn to automatical
 * /plot trust \<player />
 * /plot home
 * /spawn
+
+# _➮_ Guides
+
+- [Creating & Managing Plots](Creative/Guides/Creating%20&%20Managing%20Plots.md)
+- [World Edit: Beginners](Creative/Guides/World%20Edit%20for%20Beginners.md)
+- [World Edit: Beyond the Basics](Creative/Guides/World%20Edit%20Beyond%20the%20Basics.md)
+- [Cosmetics](Creative/Guides/Cosmetics.md)

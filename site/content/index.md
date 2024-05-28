@@ -1,19 +1,42 @@
-# Table of Contents
+> [!warning] This documentation is a work-in-progress. There may be errors or typos in the guides, however we're constantly working to improve them.
 
-## Overview
+# ⭐ Overview
 
-- [[About Us ℹ️]]
+- [[Summary]]
 - [[Discord]]
-- How to Join?
+- Servers
+  - [Dungeons](Dungeons/Getting%20Started.md)
+  - [Creative](Creative/Getting%20Started.md)
+- Help
+  - [[Help/❓ FAQ|❓ FAQ]]
   - [Supported Platforms](Help/Supported%20Platforms.md)
   - [Bedrock Edition](Help/Bedrock%20Edition.md)
 
-## Servers
+# ℹ About Us
 
-* [Dungeons](Dungeons/Getting%20Started.md)
-* [Creative](Creative/Getting%20Started.md)
-    * [Creating & Managing Plots](Creative/Guides/Creating%20&%20Managing%20Plots.md)
-    * [World Edit: Beginners](Creative/Guides/World%20Edit%20for%20Beginners.md)
-    * [World Edit: Beyond the Basics](Creative/Guides/World%20Edit%20Beyond%20the%20Basics.md)
-    * [Cosmetics](Creative/Guides/Cosmetics.md)
+## _➮_ General Info
+
+* 38+ Custom Dungeons, most handmade by our own staff!
+* 10K+ Dungeon mobs to fight!
+* 200+ Challenging dungeon bosses and minibosses!
+* 100+ Randomized world events and world bosses
+* 8 in game days for a customized Lunar Events providing unique challenges and rewards!﻿
+## _➮_ Depth & Quality of Life
+
+* Custom Instancing Setup: You will never run out of dungeon content because it is cleared or occupied!
+* Custom Coded RPG Stats plugin with special accessories and bonuses on gear!
+* Custom Skins, Models, Boss Powers, and Environments for originality!
+## _➮_ Planned/WIP Features:
+
+* Custom Classes, allowing players to unlock more abilities and spec certain paths to make combat more interesting
+* Custom Pets, providing combat bonuses and status effects
+* Custom Turrets, providing defense against the Lunar Events at players' bases
+* 13+ Mob Arenas with 30 waves each and unique bosses/rewards throughout
+
+
+
+![image](https://cdn.freedomcraft.systems/assets/wiki/about_us.png)
+
+
+
 
