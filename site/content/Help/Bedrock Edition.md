@@ -1,7 +1,7 @@
 
 # _➮_ Connection Info
 
-Server IP: mc.freedomcraft.network
+Server IP: mc.freedomcraft.systems
 Bedrock Port: 19132
 
 # _➮_ Joining on PC Bedrock Edition
