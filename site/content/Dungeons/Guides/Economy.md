@@ -26,12 +26,12 @@ Similar to [[#_➮ Jobs_|Jobs]], Quests are not active within [[Dungeon Instance
 
 # _➮_ Minions
 
-Minions are incredibly expensive but are also very rewarding! They are sources of nearly passive income, generating anything from crops, building blocks, and even rare ores at the cost of various fuel types.\
-\
+Minions are incredibly expensive but are also very rewarding! They are sources of nearly passive income, generating anything from crops, building blocks, and even rare ores at the cost of various fuel types.
+
 Minions are for largely established players who have been working on collecting money for some time. It is also important to have a strong base defense with sturdy walls and a thick roof to protect these Minions and the blocks that they stand on during the [[Lunar Event]].
 
 ## Farmer Minion
-### _Purchase Cost_: $25,000
+##### _Purchase Cost_: $25,000
 
 ##### _➮ Cost:_
 
@@ -53,16 +53,18 @@ Minions are for largely established players who have been working on collecting 
 * Coal - 15 seconds
 * Blaze Powder - 15 seconds
 
-# Lumberjack Minion
-### _Purchase Cost_: $25,000
+## Lumberjack Minion
+##### _Purchase Cost_: $25,000
 
-### _➮ Cost:_
+##### _➮ Cost:_
 
 <table><thead><tr><th width="192">Upgrades</th><th>Level 1</th><th>Level 2</th><th>Level 3</th><th>Level 4</th><th>Level 5</th></tr></thead><tbody><tr><td>Growth Cycle</td><td>$0</td><td>$10000</td><td>$15000</td><td>$20000</td><td>$30000</td></tr><tr><td>Radius</td><td>$0</td><td>$2500</td><td>$5000</td><td>$7500</td><td>$10000</td></tr><tr><td>Storage</td><td>$0</td><td>$100</td><td>$500</td><td>$1000</td><td>$2500</td></tr></tbody></table>
-### _➮ Value:_
+
+##### _➮ Value:_
 
 <table><thead><tr><th width="234">Upgrades</th><th width="88">Level 1</th><th width="91">Level 2</th><th width="94">Level 3</th><th width="91">Level 4</th><th>Level 5</th></tr></thead><tbody><tr><td>Growth Cycle (seconds)</td><td>120</td><td>80</td><td>60</td><td>30</td><td>15</td></tr><tr><td>Radius</td><td>1</td><td>2</td><td>3</td><td>5</td><td>6</td></tr><tr><td>Storage</td><td>9</td><td>18</td><td>27</td><td>36</td><td>45</td></tr></tbody></table>
-### _➮ Fuel:_
+
+##### _➮ Fuel:_
 
 * Nether Star - 6 hours
 * Lava Bucket - 1 hour
@@ -73,18 +75,18 @@ Minions are for largely established players who have been working on collecting 
 * Copper Ingot - 45 seconds
 * Coal - 15 seconds
 * Blaze Powder - 15 seconds
-# Excavator Minion
-### _Purchase Cost_: $25,000
+## Excavator Minion
+##### _Purchase Cost_: $25,000
 
-### _➮ Cost:_
+##### _➮ Cost:_
 
 <table><thead><tr><th width="192">Upgrades</th><th>Level 1</th><th>Level 2</th><th>Level 3</th><th>Level 4</th><th>Level 5</th></tr></thead><tbody><tr><td>Growth Cycle</td><td>$0</td><td>$10000</td><td>$15000</td><td>$20000</td><td>$30000</td></tr><tr><td>Radius</td><td>$0</td><td>$2500</td><td>$5000</td><td>$7500</td><td>$10000</td></tr><tr><td>Storage</td><td>$0</td><td>$100</td><td>$500</td><td>$1000</td><td>$2500</td></tr></tbody></table>
 
-### _➮ Value:_
+##### _➮ Value:_
 
 <table><thead><tr><th width="234">Upgrades</th><th width="88">Level 1</th><th width="91">Level 2</th><th width="94">Level 3</th><th width="91">Level 4</th><th>Level 5</th></tr></thead><tbody><tr><td>Growth Cycle (seconds)</td><td>120</td><td>80</td><td>60</td><td>30</td><td>15</td></tr><tr><td>Radius</td><td>1</td><td>2</td><td>3</td><td>5</td><td>6</td></tr><tr><td>Storage</td><td>9</td><td>18</td><td>27</td><td>36</td><td>45</td></tr></tbody></table>
 
-### _➮ Fuel:_
+##### _➮ Fuel:_
 
 * Nether Star - 6 hours
 * Lava Bucket - 1 hour
@@ -96,18 +98,18 @@ Minions are for largely established players who have been working on collecting 
 * Coal - 15 seconds
 * Blaze Powder - 15 seconds
 
-# Quarry Minion
-### _Purchase Cost_: $25,000
+## Quarry Minion
+##### _Purchase Cost_: $25,000
 
-### _➮ Cost:_
+##### _➮ Cost:_
 
 <table><thead><tr><th width="192">Upgrades</th><th>Level 1</th><th>Level 2</th><th>Level 3</th><th>Level 4</th><th>Level 5</th></tr></thead><tbody><tr><td>Growth Cycle</td><td>$0</td><td>$10000</td><td>$15000</td><td>$20000</td><td>$30000</td></tr><tr><td>Radius</td><td>$0</td><td>$2500</td><td>$5000</td><td>$7500</td><td>$10000</td></tr><tr><td>Storage</td><td>$0</td><td>$100</td><td>$500</td><td>$1000</td><td>$2500</td></tr></tbody></table>
 
-### _➮ Value:_
+##### _➮ Value:_
 
 <table><thead><tr><th width="234">Upgrades</th><th width="88">Level 1</th><th width="91">Level 2</th><th width="94">Level 3</th><th width="91">Level 4</th><th>Level 5</th></tr></thead><tbody><tr><td>Growth Cycle (seconds)</td><td>120</td><td>80</td><td>60</td><td>30</td><td>15</td></tr><tr><td>Radius</td><td>1</td><td>2</td><td>3</td><td>5</td><td>6</td></tr><tr><td>Storage</td><td>9</td><td>18</td><td>27</td><td>36</td><td>45</td></tr></tbody></table>
 
-### _➮ Fuel:_
+##### _➮ Fuel:_
 
 * Nether Star - 6 hours
 * Lava Bucket - 1 hour
