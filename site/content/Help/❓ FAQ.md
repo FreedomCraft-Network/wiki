@@ -5,13 +5,6 @@
 ## Dungeons
 - Smithing Tables do not work on 1.20+
 - Mob Models and Item Textures are not compatible with Bedrock
-
-## Resource Pack
-- Vanilla HUD no longer works on MC 1.20.1 or older. 
-	- 1.20.2/1.20.3 MC Client suffer from a Bug that forces RP Reload on Server Switch
-	- 1.20.4 is the recommended client on FreedomCraft-Network
-
-
 # Frequently Asked Questions 
 
 ## General

@@ -1,7 +1,6 @@
 # How to Join?
 
 <figure><img src="../assets/banner.gif" alt=""><figcaption></figcaption></figure>
-
 ## _➮_ Requirements
 
 * Stable Internet Connection

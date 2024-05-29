@@ -2,12 +2,9 @@
 
 _(Snapshot Releases not supported)_
 
-* 1.18.2 - 1.20.1*
 * 1.20.2
 * 1.20.3
 * 1.20.4
-
-> [!warning] *Server Resource Pack is not supported on these versions/editions
 ## _➮_ Bedrock Edition
 
 _(Pre-Releases/Beta not supported)_
@@ -18,7 +15,7 @@ _(Pre-Releases/Beta not supported)_
 * Switch
 * Mobile
 
-> [!success] Console Connection Documentation Coming Soon
+> [!tip] See [[Bedrock Edition]] Documentation
 
 ## _➮_ Approved Mods List
 
