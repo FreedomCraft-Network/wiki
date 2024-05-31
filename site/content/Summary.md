@@ -1,3 +1,7 @@
+---
+title: 👋 Welcome to FreedomCraft
+---
+
 # How to Join?
 
 <figure><img src="../assets/banner.gif" alt=""><figcaption></figcaption></figure>
@@ -57,11 +61,29 @@ Hovering over any icon will give basic information about each server and allow y
 
 # 🎫 Support Information
 
-* [❓ FAQ](Help/❓%20FAQ.md)
-* [Known Issues](Help/❓%20FAQ.md#Known-Issues)
-* Getting Help
-  * [[In-Game]]
-  * [[Help/Discord]]
+* [❓ FAQ](❓%20FAQ.md)
+* [Known Issues](❓%20FAQ.md#Known-Issues)
+## Discord
+
+### Link: Minecraft - Discord
+
+> [!danger] You must have accepted the Rules and completely joined the Discord Server prior to linking your account in Minecraft
+
+## _➮_ Instructions
+
+* Join the FreedomCraft Discord if you haven't already, from [here](https://freedomcraft.network/discord) or `/discord` in-game.
+* After joining, use `/discord` in `/hub` to receive the code to Link Accounts
+* Copy the 4 Digit Code you are given
+* DM the code to our Discord Bot: `⸝⸝ PrimeServerChat#4177`
+
+## _➮_ Benefits
+
+* Member Role in Discord and in Minecraft
+* Discord <-> Minecraft Chat Integration
+* Discord Ping Notifications in-game
+* Inventory/Item Sharing from Discord Commands
+* Faster support in Discord Tickets
+
 
 # 🔗 Links
 

@@ -1,3 +1,7 @@
+---
+title: ❓ Frequently Asked Questions
+---
+
 > [!danger] Under Construction! 
 
 # Known Issues

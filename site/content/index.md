@@ -31,7 +31,7 @@ title: ℹ About Us
   - [[Creative/Getting Started|Creative]]
   - [[Dungeons/Getting Started|Dungeons]]
 - Help
-  - [[Help/❓ FAQ|❓ FAQ]]
+  - [[❓ FAQ|❓ FAQ]]
   - [[Help/Discord|Discord]]
   - [[Help/Bedrock Edition|Bedrock Edition]]
   - [[Help/Supported Platforms|Supported Platforms]]
