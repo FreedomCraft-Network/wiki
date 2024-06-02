@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "dev.freedomcraft.wiki",
+    baseUrl: "freedomcraft.wiki",
     ignorePatterns: ["private", "templates"],
     defaultDateType: "created",
     theme: {
