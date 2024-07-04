@@ -5,6 +5,8 @@ _(Snapshot Releases not supported)_
 * 1.20.2
 * 1.20.3
 * 1.20.4
+* 1.20.5
+* 1.20.6
 ## _➮_ Bedrock Edition
 
 _(Pre-Releases/Beta not supported)_
